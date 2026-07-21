@@ -1,5 +1,7 @@
 # Backend Concepts and Flow
 
+Author: Basu Sharma
+
 This document explains the backend architecture used in the `full-stack-crud` project, focusing on the Spring Boot API, request handling, data flow, persistence, and the main backend components.
 
 It is written for beginners, so it includes basic definitions, simple analogies, and explanation of each layer.
